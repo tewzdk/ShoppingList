@@ -23,7 +23,7 @@ This app has only been tested on Android
 
 5. Now configure environment variable
 
-6. Insert 
+6. Insert google-services.json in $DIRECTORY\ShoppingList\android\app
 
 6. Create React Application and Run the app physical and AVD devices.
 
